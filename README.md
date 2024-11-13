@@ -1,2 +1,2 @@
 # KSAD
-Repo untuk Kelompok Studi Application and Database
+# Repo untuk Kelompok Studi Application and Database
